@@ -1,18 +1,18 @@
 body {
 	background-color:lightpink;
-	margin:0;
+	margin:20px;
 	border:20px black solid; 
 	padding:20px;
 }
 
 h1{
 	color:deeppink;
-	text-align: center
+	text-align: center;
 	}
 	
 h2{
 	color:purple;
-	text-align: center
+	text-align: center;
 	}
 
 div{text-align: left
