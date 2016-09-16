@@ -8,20 +8,14 @@ body {
 h1{
 	color:deeppink;
 	text-align: center
-	line-height:1
-	}
-
-p {
-    text-indent: 50px;
 	}
 	
 h2{
 	color:purple;
 	text-align: center
-	line-height:1
 	}
 
-div{text-align: center
+div{text-align: left
 	
 }
 	
@@ -29,4 +23,3 @@ div{text-align: center
 		color:white; 
 		border:20px black solid;
 		padding:20px;}
-			
